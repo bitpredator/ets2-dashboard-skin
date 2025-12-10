@@ -274,13 +274,15 @@ Example:
 import fr_fr from '@/translations/fr-FR.yaml';
 import cn_cn from '@/translations/cn-CN.yaml';
 import ru_ru from '@/translations/ru-RU.yaml';
+import it_it from '@/translations/it-IT.yaml';
+import pt_pt from '@/translations/pt-PT.yaml';
 // Here >>
 import de_de from '@/translations/de-DE.yaml';
 ```` 
 
 3. Add your language code at the end of `availableLocale` variable.
 ````js
-const availableLocale = ['fr-FR', 'en-EN', 'cn-CN', 'ru-RU', 'pt-PT', 'de-DE'];
+const availableLocale = ['fr-FR', 'en-EN', 'cn-CN', 'ru-RU', 'pt-PT', 'de-DE', 'it-IT'];
 ````  
 
 4. Insert a new case at `currentLocaleTranslations` before the `default` case.

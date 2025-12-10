@@ -163,6 +163,9 @@ Currently, these locales are available:
 
 - English (en_EN)
 - French (fr_FR)
+- Italian (it_IT)
+- Portuguese (pt_PT)
+- Russian (ru_RU)
 
 ### Add a new language
 

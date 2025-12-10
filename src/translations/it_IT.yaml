@@ -1,0 +1,303 @@
+Skins: Skin
+Templates: Modelli
+Config: Impostazioni
+About: Informazioni
+Activate: Attiva
+Active: Attivo
+Disabled: Disattivato
+Menu: Menu
+Close: Chiudi
+Download: Scarica
+Upload: Carica
+Show: Mostra
+less: meno
+more: più
+General: Generale
+Refresh rate: Frequenza di aggiornamento
+Set your refresh rate of the data…: Imposta la frequenza di aggiornamento dei dati. Più il valore è basso, più il cruscotto sarà aggiornato. Devi riavviare l’app dopo la modifica ;)
+Default skin loaded: Skin predefinito caricato
+Set the skin loaded…: Imposta lo skin caricato all’avvio dell’applicazione
+Langue: Lingua
+Choose your locale…: Scegli la lingua utilizzata dall’app
+Job delivery time: Tempo di consegna della missione
+Display the due date…: Mostra la data di consegna o il tempo restante della missione
+H-Shifter layout: Configurazione del cambio ad H
+Show the current range…: Mostra la gamma attuale del cambio ad H o la marcia dell’automatico
+Damage accurate: Precisione danni
+Show the average…: Mostra la media del “Diagnostica danni” oppure la stessa del “Route Advisor”
+Get new !: Aggiorna!
+Game: Gioco
+Select one: Seleziona…
+Pause / Unpause: Pausa / Riprendi
+Fine: Multa
+Toll gate: Casello
+Ferry: Traghetto
+Train: Treno
+Refuel played: Rifornimento completato
+Job: Missione
+Cancelled: Annullata
+Delivered: Consegnata
+Finished: Terminata
+Started: Iniziata
+Speed limit change: Cambio limite di velocità
+Trailers: Rimorchi
+Coupling: Aggancio
+Damage: Danni
+Truck: Camion
+Cruise control ON / OFF: Cruise control ON / OFF
+Cruise control increase: Aumenta cruise control
+Cruise control decrease: Diminuisci cruise control
+Warning: Avviso
+Emergency: Emergenza
+Electric: Elettrico
+Engine: Motore
+Park: Freno di stazionamento
+Refuel: Rifornimento
+Events: Eventi
+
+Game pause: Gioco in pausa
+Show a pop-up when the game are on pause…: Mostra un pop-up quando il gioco va in pausa o riprende
+
+Road fine: Multa stradale
+Show a pop-up when you get a road fine: Mostra un pop-up quando ricevi una multa
+
+Show a pop-up when you pass through a toll gate: Mostra un pop-up quando passi ad un casello
+
+Ferry travel: Viaggio in traghetto
+Show a pop-up when you use a ferry: Mostra un pop-up quando utilizzi un traghetto
+
+Train travel: Viaggio in treno
+Show a pop-up when you use a train: Mostra un pop-up quando utilizzi un treno
+
+Refuel payed: Rifornimento pagato
+Show a pop-up when you refuel…: Mostra un pop-up quando hai terminato il rifornimento
+
+Job canceled: Missione annullata
+Job delivered: Missione consegnata
+Job finished: Missione terminata
+Job started: Missione iniziata
+
+Speed limit: Limite di velocità
+Show a pop-up when the speed limit change: Mostra un pop-up quando cambia il limite di velocità
+
+Trailer coupled: Rimorchio agganciato
+Show a pop-up…: Mostra un pop-up quando il rimorchio viene agganciato
+
+Trailer damage: Danni al rimorchio
+Show a pop-up when the damage increase…: Mostra un pop-up quando aumentano i danni del rimorchio
+
+Cruise control enabled: Cruise control attivato
+Show a pop-up when the cruise control is enabled: Mostra un pop-up quando il cruise control è attivo
+
+Truck warning message: Messaggi di avviso del camion
+Truck emergency message: Messaggi di emergenza del camion
+Truck electric message: Messaggi elettrici del camion
+
+Truck engine start: Avvio motore
+Truck parking brake: Freno di stazionamento del camion
+Truck damage: Danni del camion
+Truck refuel: Rifornimento del camion
+
+Unit: Unità
+Weight: Peso
+Length: Lunghezza
+Degrees: Gradi
+Consumption: Consumo
+Volume: Volume
+Pressure: Pressione
+Speed: Velocità
+Currency: Valuta
+
+Debug information: Informazioni di debug
+ETA information: Orario di arrivo stimato
+Speed and gear: Velocità e marcia
+Map controls: Controlli mappa
+Display current speed limit: Mostra limite attuale
+Map rotation: Rotazione mappa
+Navigation ETA: ETA navigazione
+Active map: Mappa attiva
+Kind of map: Tipo di mappa
+
+Remote tiles location: Posizione remota delle tile
+Custom tiles: Tile personalizzate
+Custom tiles location: Percorso tile personalizzate
+Game version: Versione del gioco
+
+Tiles: Tile
+Elements: Elementi
+Map: Mappa
+Right: Destra
+Middle - Top: Centro - Alto
+Middle - Bottom: Centro - Basso
+
+Oil temperature: Temperatura olio
+Brakes temperature: Temperatura freni
+Brakes air pressure: Pressione aria freni
+Fuel: Carburante
+Fuel consumption: Consumo carburante
+Cruise control: Cruise control
+Water temperature: Temperatura acqua
+Battery voltage: Tensione batteria
+Next rest stop: Prossima sosta
+Display map: Mostra mappa
+Retarder: Rallentatore
+Parking brake: Freno di stazionamento
+Beam high: Abbaglianti
+Beam low: Anabbaglianti
+Beacon: Lampeggianti
+RPM: RPM
+
+Turning indicator: Indicatori di direzione
+
+Quickly (100ms): Veloce (100ms)
+Balanced (500ms): Bilanciato (500ms)
+Slowly (1000ms): Lento (1000ms)
+
+JAGFx dashboard: Cruscotto JAGFx
+Default: Predefinito
+Due date: Data prevista
+Remaining date: Tempo rimanente
+H-Shifter: Cambio ad H
+Automatic: Automatico
+Damage diagnostic: Diagnostica danni
+Route advisor: Advisor di percorso
+
+On: Attivo
+Off: Inattivo
+
+Kilogram: Chilogrammo
+Pound & Long ton: Libbre & Long ton
+Meters & Kilometers: Metri & Chilometri
+Foot & Miles: Piedi & Miglia
+Celsius: Celsius
+Fahrenheit: Fahrenheit
+L/100 km: L/100 km
+Mpg: Mpg
+Liters: Litri
+Gallons: Galloni
+PSI: PSI
+Bar: Bar
+Km/h: Km/h
+Mph: Mph
+€ EUR: € EUR
+£ GBP: £ GBP
+$ US: $ US
+
+Vanilla: Standard
+Mod: Mod
+Auto: Automatico
+
+ETS2 base map (Full DLC): Mappa base ETS2 (DLC completo)
+ATS base map (Full DLC): Mappa base ATS (DLC completo)
+Promod (ETS): ProMod (ETS)
+Promod Canada: ProMod Canada
+
+Latest: Ultimi
+English: Inglese
+French: Francese
+Chinese: Cinese
+Russian: Russo
+Portuguese: Portoghese
+
+Common dashboard…: Cruscotto comune per ETS2 e ATS
+The map from the route advisor: Mappa del route advisor
+
+Base: Base
+Simple dashboard with speed: Cruscotto semplice con velocità
+Generic Dashboard: Cruscotto generico
+DAF XF Dashboard: Cruscotto DAF XF
+MAN TGX Dashboard: Cruscotto MAN TGX
+Mercedes Benz Atego MP4 Dashboard: Cruscotto Mercedes Benz Atego MP4
+Scania Dashboard: Cruscotto Scania
+Volvo FH 2012 Dashboard: Cruscotto Volvo FH 2012
+
+OFF: Off
+N/A: N/A
+No Job: Nessuna missione
+No trailer: Nessun rimorchio
+
+Map Information: Informazioni mappa
+Version: Versione
+Date: Data
+Pos: Posizione
+Ready: Pronto
+Last pos: Ultima posizione
+Map ready: Mappa pronta
+No data available: Nessun dato disponibile
+
+Time: Tempo
+Source: Origine
+Destination: Destinazione
+Deadline in: Scadenza tra
+Truck wear: Usura camion
+API: API
+Copy: Copia
+Map initialiation: Inizializzazione mappa
+Unable to load map: Impossibile caricare la mappa
+
+Connected to telemetry server: Connesso al server di telemetria
+Ready to delivering: Pronto alla consegna
+Waiting game connection: In attesa connessione al gioco
+Run the game to start your job !: Avvia il gioco per iniziare la missione!
+App ready !: Applicazione pronta!
+Starting delivering: Avvio consegna
+Processing: Elaborazione
+Your app is on processing…: L’app sta elaborando, attendere…
+
+more details: più dettagli
+
+OK: OK
+You can: Puoi
+create an issue: creare una segnalazione
+and/or contact me at: e/o contattarmi a
+with the above details: con i dettagli sopra riportati
+
+From: Da
+To: A
+Cost: Costo
+Delivered time: Tempo di consegna
+Earned XP: XP guadagnata
+Revenue: Guadagno
+Cargo: Carico
+Frame: Telaio
+Speed limit set: Limite di velocità impostato
+Game paused: Gioco in pausa
+Game connection lost: Connessione al gioco persa
+
+Job canceled !: Missione annullata!
+You've been cancel this job: Hai annullato questa missione
+
+Job delivered !: Missione consegnata!
+Delivered !: Consegnato!
+
+Job finished !: Missione terminata!
+You've been finish your job: Hai completato la missione
+
+Job started !: Missione iniziata!
+You've been start this job: Hai iniziato questa missione
+
+Trailer coupled !: Rimorchio agganciato!
+You are ready to go: Sei pronto a partire
+
+Cant get tiles - Tiles NOT FOUND: Impossibile ottenere le tile – Tile NON TROVATE
+Cant get config - Map config NOT FOUND: Impossibile ottenere la configurazione – Configurazione mappa NON TROVATA
+
+Author: Autore
+Port: Porta
+Port used by the server: Porta usata dal server
+ets2.jagfx.fr (Deprecated): ets2.jagfx.fr (Deprecato)
+Last waiting time to drive: Ultimo tempo di attesa per guidare
+
+Launching: Avvio
+Load configuration game: Caricamento configurazione gioco
+Load app configuration file: Caricamento configurazione app
+Start: Avvia
+
+Manual: Manuale
+Symbol: Simbolo
+Label: Etichetta
+
+General warning symbols: Simboli di avviso generali
+Left direction indicator: Freccia sinistra
+Right direction indicator: Freccia destra
+Main beam is on: Abbaglianti attivi

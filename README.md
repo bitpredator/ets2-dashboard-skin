@@ -82,6 +82,7 @@ Available locales:
 - French (fr_FR)
 - Portuguese (pt_PT) - Thanks to [codingh2](https://github.com/codingh2) 
 - Russian (ru_RU) - Thanks to [Jonny_Bro](https://github.com/JonnyBro)
+- Italian (it_IT) - Thanks to [Bitpredator](https://github.com/bitpredator)
 
 ## Requirements
 

@@ -10,6 +10,7 @@ import fr_fr from '@/translations/fr-FR.yaml';
 import cn_cn from '@/translations/cn-CN.yaml';
 import ru_ru from '@/translations/ru-RU.yaml';
 import pt_pt from '@/translations/pt-PT.yaml';
+import it_it from '@/translations/it-IT.yaml';
 
 const availableLocale = ['fr-FR', 'en-EN', 'cn-CN', 'ru-RU', 'pt-PT'];
 
@@ -34,6 +35,8 @@ const currentLocaleTranslations = () => {
       return ru_ru;
     case 'pt-PT':
       return pt_pt;
+    case 'it-IT':
+      return it_it;
     default:
       return {};
   }

@@ -265,6 +265,10 @@
 		{
 			"label" : "Russian",
 			"value" : "ru-RU"
+		},
+		{
+			"label" : "Italiano",
+			"value" : "it-IT"
 		}
 	],
 	"scania_default_menu" : [
