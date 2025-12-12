@@ -6,7 +6,7 @@ Currently, you can only contribute for the map tiles, but in a future, I'll writ
 contribution.
 
 You can join the discord to exchange about it
-;) [![Discord](https://img.shields.io/discord/764915323693826059.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/8abqrEeFxF)
+;) [![Discord](https://img.shields.io/discord/764915323693826059.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Jrm2Z26ad3)
 
 ## How to
 
@@ -321,6 +321,6 @@ Example:
 
 1. Create a [pull request](https://github.com/JAGFx/ets2-dashboard-skin/issues/new?assignees=&labels=&template=feature_request.md&title=) by following.
 
-If you are having issues or don't know how to edit any file, you can ask for help or just edit the sample [fr-FR.yaml](src/translations/fr-FR.yaml) file and send your translation via [Discord](https://discord.gg/8abqrEeFxF). Some members may be able to help filling in the rest of the requirements.
+If you are having issues or don't know how to edit any file, you can ask for help or just edit the sample [fr-FR.yaml](src/translations/fr-FR.yaml) file and send your translation via [Discord](https://discord.gg/Jrm2Z26ad3). Some members may be able to help filling in the rest of the requirements.
 
 More information about how to do a pull request can be found here [Github - Creating a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
