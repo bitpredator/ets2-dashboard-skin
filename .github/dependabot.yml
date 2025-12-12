@@ -1,0 +1,19 @@
+version: 2
+updates:
+  # Root package.json
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+  # Server DEV
+  - package-ecosystem: "npm"
+    directory: "/servers/dev"
+    schedule:
+      interval: "weekly"
+
+  # Server DEFAULT
+  - package-ecosystem: "npm"
+    directory: "/servers/default"
+    schedule:
+      interval: "weekly"
