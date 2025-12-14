@@ -10,7 +10,7 @@ In the error overlay, you can access to the full errors details.
 
 Why the full details ? It can help me to debug and fix the error. Please to email me or create an issue with this detail ;)
 
-See the [Issue template](https://github.com/JAGFx/ets2-dashboard-skin/issues/new?assignees=&labels=bug%2C+feature%2Ftodo&template=bug_report.md&title=) 
+See the [Issue template](https://github.com/bitpredator/ets2-dashboard-skin/issues/new?assignees=&labels=bug%2C+feature%2Ftodo&template=bug_report.md&title=) 
 
 ## Skin
 

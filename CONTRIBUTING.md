@@ -14,8 +14,8 @@ If you want to contribute in this project, you can:
 
 - Stars this project
 - Share this project
-- [Suggest a feature](https://github.com/JAGFx/ets2-dashboard-skin/issues/new?assignees=&labels=&template=feature_request.md&title=)
-- [Create an issue](https://github.com/JAGFx/ets2-dashboard-skin/issues/new?assignees=&labels=bug%2C+feature%2Ftodo&template=bug_report.md&title=)
+- [Suggest a feature](https://github.com/bitpredator/ets2-dashboard-skin/issues/new?assignees=&labels=&template=feature_request.md&title=)
+- [Create an issue](https://github.com/bitpredator/ets2-dashboard-skin/issues/new?assignees=&labels=bug%2C+feature%2Ftodo&template=bug_report.md&title=)
 - Suggest your code contribution (for a feature, a bugfix or other)
 
 For the last point, please read in full this contribution guide.
@@ -32,7 +32,7 @@ If you encounter a problem with this application, please check all suggestions:
 - [x] Run the application as an administrator
 
 If you still have a problem, you
-can [open a bug on Github](https://github.com/JAGFx/ets2-dashboard-skin/issues/new?assignees=&labels=bug%2C+feature%2Ftodo&template=bug_report.md&title=)
+can [open a bug on Github](https://github.com/bitpredator/ets2-dashboard-skin/issues/new?assignees=&labels=bug%2C+feature%2Ftodo&template=bug_report.md&title=)
 
 > Note: If the application crashes and closes immediately, you can open a terminal and type `ets2-dashboard-skin.exe`. With this, the application will not crash anymore and the error will be displayed.
 
@@ -319,7 +319,7 @@ Example:
 
 #### Publish your changes
 
-1. Create a [pull request](https://github.com/JAGFx/ets2-dashboard-skin/issues/new?assignees=&labels=&template=feature_request.md&title=) by following.
+1. Create a [pull request](https://github.com/bitpredator/ets2-dashboard-skin/issues/new?assignees=&labels=&template=feature_request.md&title=) by following.
 
 If you are having issues or don't know how to edit any file, you can ask for help or just edit the sample [fr-FR.yaml](src/translations/fr-FR.yaml) file and send your translation via [Discord](https://discord.gg/Jrm2Z26ad3). Some members may be able to help filling in the rest of the requirements.
 
