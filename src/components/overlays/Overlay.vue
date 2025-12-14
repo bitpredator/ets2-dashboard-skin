@@ -53,7 +53,7 @@
             <span
               >{{ $t('You can') }}
               <a
-                href="https://github.com/JAGFx/ets2-dashboard-skin/issues/new/choose"
+                href="https://github.com/bitpredator/ets2-dashboard-skin/issues/new/choose"
                 target="_blank"
                 >{{ $t('create an issue') }}</a
               >

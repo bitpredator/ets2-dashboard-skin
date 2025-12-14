@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>Wrong next rest time and remaining time #46</td>
-    <td>See <a href="https://github.com/JAGFx/ets2-dashboard-skin/issues/33#issuecomment-725514001">here</a></td>
+    <td>See <a href="https://github.com/bitpredator/ets2-dashboard-skin/issues/33#issuecomment-725514001">here</a></td>
   </tr>
   <tr>
     <td>Some dashboard may over or under sized in device</td>
@@ -37,7 +37,7 @@
   <tr>
     <td>Wrong time stamp of the job delivery time (and remaining delivery time) on World of Trucks</td>
     <td>The time stamp provided by the API was wrong. And then the estimated remaining delivery time was also wrong.</td>
-    <td>Check <a href="https://github.com/JAGFx/ets2-dashboard-skin/issues/33#issuecomment-725514001">here</a></td>
+    <td>Check <a href="https://github.com/bitpredator/ets2-dashboard-skin/issues/33#issuecomment-725514001">here</a></td>
   </tr>
   <tr>
     <td>Application crashed or data update was not smooth</td>
