@@ -1,25 +1,39 @@
 module.exports = {
+  root: true,
+
   env: {
+    browser: true,
     node: true
   },
+
+  parser: 'vue-eslint-parser',
+
+  parserOptions: {
+    parser: 'espree',
+    ecmaVersion: 2020,
+    sourceType: 'module'
+  },
+
   extends: [
     'eslint:recommended',
-    'plugin:vue/essential',
-    'plugin:vue/strongly-recommended',
     'plugin:vue/recommended',
-    'plugin:jest/recommended',
     'prettier'
   ],
-  parserOptions: {
-    ecmaVersion: 13
-  },
-  plugins: ['vue', 'html', 'prettier', 'jest'],
+
+  plugins: ['vue', 'prettier'],
+
   rules: {
-    'no-console': 1,
-    'no-debugger': 2,
-    'no-mixed-spaces-and-tabs': [2, 'smart-tabs'],
+    /* General JS */
+    'no-console': 'warn',
+    'no-debugger': 'error',
+    'no-unused-vars': 'warn',
+    'no-undef': 'error',
+
+    /* Vue legacy allowances */
     'vue/no-v-html': 'off',
     'vue/multi-word-component-names': 'off',
-    'prettier/prettier': 2
+
+    /* Prettier integration */
+    'prettier/prettier': 'error'
   }
 };
